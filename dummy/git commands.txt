@@ -1,0 +1,8 @@
+just testing some commands
+git config --global user.email "karishshaik974@gmail.com"
+git config --global user.name  "SHAIKKARISHMA"
+git status
+git add .
+git status
+git commit -m "your commit message"
+git push
